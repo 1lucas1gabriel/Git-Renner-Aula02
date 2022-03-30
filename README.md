@@ -13,3 +13,8 @@ Atualmente sou graduando em Engenharia Elétrica pela UFPB e estou realizando a 
  - Curte esse som: [Accept - Blind The Rage](https://www.youtube.com/watch?v=v6SP0b_HdGQ)
 
 
+## Livros Preferidos
+
+ 1. O código DaVinci
+ 2. Faça fortuna com ações
+ 3. Respostas rápidas para grandes perguntas
