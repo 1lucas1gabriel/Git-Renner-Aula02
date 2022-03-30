@@ -12,4 +12,8 @@ Atualmente sou graduando em Engenharia Elétrica pela UFPB e estou realizando a 
 
  - Curte esse som: [Accept - Blind The Rage](https://www.youtube.com/watch?v=v6SP0b_HdGQ)
 
+# Linguagens
+
+ 1. C++ (2019)
+ 2. Python (2020)
 
