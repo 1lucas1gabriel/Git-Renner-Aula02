@@ -22,9 +22,5 @@ Atualmente sou graduando em Engenharia Elétrica pela UFPB e estou realizando a 
  1. O código DaVinci
  2. Faça fortuna com ações
  3. Respostas rápidas para grandes perguntas
-<<<<<<< HEAD
-=======
 
 # Read me
-
->>>>>>> Last readme
