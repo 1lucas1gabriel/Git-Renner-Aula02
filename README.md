@@ -27,4 +27,4 @@ Atualmente sou graduando em Engenharia Elétrica pela UFPB e estou realizando a 
 
 # Feature 1
 
-## resolvendo issue
+# Issue 6
